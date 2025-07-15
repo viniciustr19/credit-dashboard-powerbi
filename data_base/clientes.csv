@@ -1,0 +1,51 @@
+id_cliente,nome,idade,renda_mensal,cidade,score_inicial
+1,Sra. Valentina Rezende,58,3324,São Paulo,581
+2,Stella da Conceição,33,5157,Rio de Janeiro,404
+3,Davi Lucas das Neves,61,13635,Fortaleza,389
+4,Ana Júlia Castro,55,8412,São Paulo,330
+5,Sr. Raul Moraes,23,5082,Rio de Janeiro,817
+6,Diogo da Rosa,56,1934,Fortaleza,503
+7,Dra. Maria Mendes,63,12147,Fortaleza,729
+8,João Miguel Moreira,32,8859,Fortaleza,584
+9,Nina Castro,18,13932,Rio de Janeiro,732
+10,Fernando Caldeira,39,6052,Rio de Janeiro,520
+11,Luiz Fernando Cardoso,39,3174,São Paulo,689
+12,Cauê Aragão,24,7381,Belo Horizonte,570
+13,Thiago Cunha,20,13455,Curitiba,849
+14,Mariane Martins,25,7701,São Paulo,600
+15,Matheus Ribeiro,58,11633,Belo Horizonte,496
+16,Laura da Cruz,63,2639,São Paulo,533
+17,Heloísa Pires,36,2807,Rio de Janeiro,403
+18,Enzo Castro,42,6054,Curitiba,673
+19,Isabelly Barbosa,28,7565,Belo Horizonte,514
+20,Erick das Neves,60,5874,São Paulo,475
+21,Davi Costela,52,13446,Rio de Janeiro,467
+22,Eduarda Caldeira,47,7716,Belo Horizonte,524
+23,Dr. Samuel Oliveira,61,6813,São Paulo,534
+24,Enzo Monteiro,20,14689,Belo Horizonte,710
+25,Joaquim Carvalho,35,2584,Rio de Janeiro,622
+26,Eloah Novaes,31,12238,Curitiba,705
+27,Henrique Campos,59,9017,Rio de Janeiro,571
+28,Milena Santos,26,5540,Fortaleza,569
+29,Luna da Cunha,65,11077,Curitiba,708
+30,Bruno Gomes,41,5093,Rio de Janeiro,821
+31,Kevin Silva,49,2989,São Paulo,412
+32,Maria Fernanda Lima,27,11780,Rio de Janeiro,732
+33,Rafaela da Mata,56,2540,Curitiba,690
+34,Ana Beatriz Carvalho,56,9168,Fortaleza,557
+35,Ana Clara Carvalho,53,1688,São Paulo,849
+36,Daniel da Paz,35,14092,Belo Horizonte,414
+37,Dra. Sophie Duarte,36,8623,Rio de Janeiro,764
+38,Clarice Pinto,18,13330,Belo Horizonte,812
+39,Eduardo Novaes,29,9817,São Paulo,605
+40,Luiza Rezende,58,9817,Fortaleza,503
+41,Juliana Souza,27,7626,Rio de Janeiro,843
+42,Maysa Barbosa,18,11313,Belo Horizonte,800
+43,Olivia da Mota,19,3332,Belo Horizonte,614
+44,Sra. Joana Pinto,33,2449,Rio de Janeiro,380
+45,Calebe da Mata,23,13491,Curitiba,370
+46,Srta. Eloah Jesus,52,14047,Rio de Janeiro,431
+47,Eduardo Ribeiro,60,9287,Fortaleza,469
+48,Dra. Ana Luiza Azevedo,34,10145,Fortaleza,733
+49,Sr. Juan da Conceição,31,10335,Rio de Janeiro,619
+50,João Guilherme Nogueira,43,12504,Belo Horizonte,748
